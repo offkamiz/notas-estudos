@@ -2,7 +2,7 @@
 notas de estudos-SENAC 2026
 
 
-markdawm
+markdawn
 
 
 ## configurando git
