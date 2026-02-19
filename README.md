@@ -18,3 +18,5 @@ git config ``global
 ## 55h - Como configurar a maquina para Githug
 
 ## Como criar um repositório
+
+## *tentativa sozinha
