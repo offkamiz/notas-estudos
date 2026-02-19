@@ -19,4 +19,8 @@ git config ``global
 
 ## Como criar um repositório
 
-## *tentativa sozinha
+## *tentativa sozinha 
+
+# titulo principal
+## subtitulo 
+* nao necessariamente precisa usar as "##"
