@@ -13,3 +13,8 @@ Para utilizar o git na minha maquina eu preciso configurar determinados comandos
 ```bash
 git config ``global
 ```
+## como configurar o Githug
+
+## 55h - Como configurar a maquina para Githug
+
+## Como criar um repositório
